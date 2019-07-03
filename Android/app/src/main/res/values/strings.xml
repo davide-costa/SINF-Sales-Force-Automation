@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Animais do Primavera</string>
+
+    <!-- ******** Strings For the register customer view *************-->
+    <string name="register_customer_title">Register Customer</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="representative_name">Representative Name</string>
+    <string name="customer_address">Customer Address</string>
+    <string name="customer_email">Customer Email</string>
+    <string name="customer_phone_number">Customer Phone Number</string>
+    <string name="custumer_tax_no">Customer Tax No.</string>
+    <string name="register_customer_button">Finish Registration</string>
+    <!-- ************************************************************ -->
+
+    <!-- ********* Strings for the checkout view ******************** -->
+    <string name="checkout_title">Checkout</string>
+    <string name="product_price_indicator">Total Price:</string>
+    <string name="product_price">$100</string>
+    <string name="customer_search">Customer Name</string>
+    <string name="edit_customer_details">Edit Customer Details For Order</string>
+    <string name="checkout_button">Finish Checkout</string>
+    <string name="is_order">Order Type</string>
+    <string name="sale_order">Sale</string>
+    <string name="reservation">Budget</string>
+    <!-- ************************************************************ -->
+
+    <!-- ********* Strings for the Customer view ******************** -->
+    <string name="view_customer_name">Farfetch</string>
+    <string name="view_customer_representative">Sr. Abilio Rosas</string>
+    <string name="view_customer_address">Rua dos Campos Elisios, Nr 338</string>
+    <string name="view_customer_email">farfetch@farfetch.com</string>
+    <string name="view_customer_phone">+351 931999313</string>
+    <string name="view_customer_taxno">235486479</string>
+    <!-- ************************************************************ -->
+
+    <!-- ********* Strings for the Customer view ******************** -->
+    <string name="save_changes">SAVE CHANGES</string>
+    <!-- ************************************************************ -->
+
+    <!-- ********* Strings for the Product Catalog ****************** -->
+    <string name="filter_button">Filters</string>
+    <!-- ************************************************************ -->
+
+</resources>
